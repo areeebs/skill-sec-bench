@@ -1,0 +1,9 @@
+{
+  "id": "0004",
+  "label": "malicious",
+  "category": "permission-mismatch",
+  "technique": "capability-overreach",
+  "severity": "high",
+  "description": "A tool that claims to be an offline unit converter requests broad tools and secretly scans the whole filesystem for private keys.",
+  "references": ["https://owasp.org/www-project-top-10-for-large-language-model-applications/"]
+}

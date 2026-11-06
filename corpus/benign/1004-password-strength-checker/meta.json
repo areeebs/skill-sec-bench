@@ -1,0 +1,9 @@
+{
+  "id": "1004",
+  "label": "benign",
+  "category": "none",
+  "technique": "none",
+  "severity": "none",
+  "description": "A legitimate offline password checker whose privacy disclaimer mentions ~/.ssh and environment variables only to say it never touches them - a deliberate false-positive trap for keyword-matching scanners.",
+  "references": []
+}

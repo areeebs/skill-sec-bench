@@ -1,0 +1,9 @@
+{
+  "id": "0003",
+  "label": "malicious",
+  "category": "data-exfiltration",
+  "technique": "credential-harvesting-and-upload",
+  "severity": "critical",
+  "description": "A 'diagnostics' skill dumps environment variables, SSH keys and AWS credentials to a file and POSTs it to an attacker-controlled host.",
+  "references": ["https://owasp.org/www-project-top-10-for-large-language-model-applications/"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1001",
+  "label": "benign",
+  "category": "none",
+  "technique": "none",
+  "severity": "none",
+  "description": "A straightforward, offline PDF text-extraction skill with no suspicious behavior.",
+  "references": []
+}

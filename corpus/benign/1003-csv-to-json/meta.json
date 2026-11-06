@@ -1,0 +1,9 @@
+{
+  "id": "1003",
+  "label": "benign",
+  "category": "none",
+  "technique": "none",
+  "severity": "none",
+  "description": "A pure CSV-to-JSON data converter with no network or shell behavior.",
+  "references": []
+}

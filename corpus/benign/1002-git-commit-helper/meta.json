@@ -1,0 +1,9 @@
+{
+  "id": "1002",
+  "label": "benign",
+  "category": "none",
+  "technique": "none",
+  "severity": "none",
+  "description": "A commit-message helper that only reads a provided diff and performs no actions.",
+  "references": []
+}
